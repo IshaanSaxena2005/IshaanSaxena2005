@@ -1,8 +1,13 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ef,100:00c3ff&height=200&section=header&text=Ishaan%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishaan Saxena</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Analyst;GenAI+Developer;Machine+Learning+Learner" />
 </p>
+
 🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology**  
 🚀 Passionate about building impactful projects, exploring AI, and improving problem-solving skills.
 
@@ -93,9 +98,9 @@ JavaScript browser game demonstrating DOM manipulation and interactive UI logic.
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
-![trophy](https://github-profile-trophy.vercel.app/?username=IshaanSaxena2005&theme=tokyonight&row=1&column=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaanSaxena2005&theme=tokyo-night)
 
 ---
 
