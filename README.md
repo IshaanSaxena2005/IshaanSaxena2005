@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ef,100:00c3ff&height=200&section=header&text=Ishaan%20Saxena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishaan Saxena</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Analyst;GenAI+Developer;Machine+Learning+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Analyst" />
 </p>
 
 🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology**  
@@ -63,7 +63,8 @@
 
 ### 🛠 Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+  <img src="https://img.icons8.com/color/48/notepad-plus-plus.png"/>
   <img src="https://img.icons8.com/color/48/google-colab.png"/>
 </p>
 
