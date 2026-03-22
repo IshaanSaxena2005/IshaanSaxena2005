@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="355"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishaan Saxena</h1>
@@ -10,12 +10,6 @@
 
 🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology**  
 🚀 Passionate about building impactful projects, exploring AI, and improving problem-solving skills.
-
-💻 **Currently mastering**
-- Web Development
-- Data Analytics
-- Generative AI
-- Machine Learning
 
 ---
 
