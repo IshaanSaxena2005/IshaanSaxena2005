@@ -80,13 +80,6 @@ JavaScript browser game demonstrating DOM manipulation and interactive UI logic.
 
 ---
 
-# 📊 GitHub Stats
-
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanSaxena2005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanSaxena2005&layout=compact&theme=tokyonight)
-
----
 
 # 🔥 GitHub Streak
 
