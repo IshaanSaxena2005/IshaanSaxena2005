@@ -17,11 +17,11 @@
 
 🔬 **YOLOv11 Research Internship** — Enhancing camouflaged object detection for defense and surveillance using advanced computer vision techniques.
 
+💻 **Full-Stack Financial Intelligence System** — Building a full-stack financial intelligence system that tracks expenses, analyzes spending patterns, and provides AI-driven insights
+
 📊 **Data Analytics & AI** — Building Power BI dashboards and exploring machine learning and generative AI applications.
 
 🏢 **Residential Operations Platform** — Designing a smart web system to manage residential operations and automate issue reporting.
-
-🌐 **Full-Stack Web Development** — Developing modern web applications and strengthening backend + frontend skills.
 
 ---
 
