@@ -15,13 +15,13 @@
 
 ## 🚀 What I'm Working On
 
-🔬 **YOLOv11 Research Internship** — Enhancing camouflaged object detection for defense and surveillance using advanced computer vision techniques.
+🔬 **YOLOv11 Research Internship**— Enhancing camouflaged object detection for defense and surveillance using advanced computer vision techniques and real-world datasets.
 
-💻 **Full-Stack Financial Intelligence System** — Building a full-stack financial intelligence system that tracks expenses, analyzes spending patterns, and provides AI-driven insights
+💻 **Full-Stack Financial Intelligence System** — Developing a full-stack platform to track expenses, analyze spending patterns, and deliver AI-driven financial insights.
 
-📊 **Data Analytics & AI** — Building Power BI dashboards and exploring machine learning and generative AI applications.
+📊 **Data Analytics & AI** — Creating interactive Power BI dashboards while exploring machine learning models and generative AI applications.
 
-🏢 **Residential Operations Platform** — Designing a smart web system to manage residential operations and automate issue reporting.
+🏢 **Residential Operations Platform**— Building a smart web-based system to streamline residential management and automate issue reporting
 
 ---
 
