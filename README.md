@@ -86,11 +86,6 @@ Frontend replication of Amazon homepage using modern HTML and CSS layout techniq
 
 **Live Link** - (https://amazon-clone-tau-murex.vercel.app/)
 
-❌ **Tic Tac Toe**  
-JavaScript browser game demonstrating DOM manipulation and interactive UI logic.
-
-**Live Link** - (https://tic-tac-toe-80aw.onrender.com/)
-
 ---
 
 # 🔥 GitHub Streak
