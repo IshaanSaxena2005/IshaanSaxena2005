@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-saxena2005)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenaishaan3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshaanSaxena2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ef?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ishaansaxena2005.github.io/ishaan-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ef?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ishaansaxena-portfolio.onrender.com)
 
 ---
 
@@ -69,17 +69,24 @@
 🌌 **Echoes of the Cosmos**  
 Interactive space exploration platform with 3D solar system visualization, APIs, and AI chatbot.
 
+**Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
+
 🏙 **CityVoice**  
 Civic-tech platform enabling citizens to report infrastructure issues with map integration and community reporting.
+
+**Live Link** - (https://ishaansaxena2005.github.io/CityVoice/)
 
 🛒 **Amazon Clone**  
 Frontend replication of Amazon homepage using modern HTML and CSS layout techniques.
 
+**Live Link** - (https://amazon-clone-tau-murex.vercel.app/)
+
 ❌ **Tic Tac Toe**  
 JavaScript browser game demonstrating DOM manipulation and interactive UI logic.
 
----
+**Live Link** - (https://tic-tac-toe-80aw.onrender.com/)
 
+---
 
 # 🔥 GitHub Streak
 
