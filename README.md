@@ -66,15 +66,15 @@
 
 # 🚀 Featured Projects
 
-🌌 **Echoes of the Cosmos**  
-Interactive space exploration platform with 3D solar system visualization, APIs, and AI chatbot.
-
-**Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
-
 🛡 **GigShield AI**
 AI-powered parametric insurance platform that automates income-loss payouts for gig workers using real-time weather and AQI data. 
 
 **Live Link** - (https://gig-shield.onrender.com/)
+
+🌌 **Echoes of the Cosmos**  
+Interactive space exploration platform with 3D solar system visualization, APIs, and AI chatbot.
+
+**Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
 
 🏙 **CityVoice**  
 Civic-tech platform enabling citizens to report infrastructure issues with map integration and community reporting.
