@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Analyst" />
 </p>
 
-🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology**  
+🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology KTR**  
 🚀 Passionate about building impactful projects, exploring AI, and improving problem-solving skills.
 
 ---
