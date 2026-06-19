@@ -69,7 +69,7 @@
 💰 **SpendWise Pro**
 AI-powered personal finance management platform featuring expense tracking, budget management, analytics dashboards, machine-learning forecasting, anomaly detection, intelligent financial insights, JWT authentication, and cloud deployment.
 
-Live Link - https://spendwise-pro-nu.vercel.app
+**Live Link** - (https://spendwise-pro-nu.vercel.app)
 
 🛡 **GigShield AI**
 AI-powered parametric insurance platform that automates income-loss payouts for gig workers using real-time weather and AQI data. 
