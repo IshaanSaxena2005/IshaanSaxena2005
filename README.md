@@ -19,7 +19,7 @@
 
 💻 **Frontend Development Internship** — Working on real-world web projects, building responsive interfaces, and strengthening frontend engineering skills.
 
-💻 **Full-Stack Financial Intelligence System** — Developing a full-stack platform to track expenses, analyze spending patterns, and deliver AI-driven financial insights.
+💻 **Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered personal finance platform with expense tracking, budget management, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
 
 📊 **Data Analytics & AI** — Creating interactive Power BI dashboards while exploring machine learning models and generative AI applications.
 
