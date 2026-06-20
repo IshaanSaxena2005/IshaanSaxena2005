@@ -100,6 +100,12 @@ Frontend replication of Amazon homepage using modern HTML and CSS layout techniq
 
 ---
 
+# 💻 Most Used Languages 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanSaxena2005&layout=compact&theme=tokyonight" />
+</p>
+
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaanSaxena2005&theme=tokyo-night)
