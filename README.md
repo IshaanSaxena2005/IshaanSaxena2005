@@ -67,6 +67,7 @@
 # 🚀 Featured Projects
 
 💰 **SpendWise Pro**
+
 AI-powered personal finance management platform featuring expense tracking, budget management, analytics dashboards, machine-learning forecasting, anomaly detection, intelligent financial insights, JWT authentication, and cloud deployment.
 
 **Live Link** - (https://spendwise-pro-nu.vercel.app)
