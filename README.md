@@ -17,7 +17,7 @@
 
 🔬 **YOLOv11 Research Internship**— Enhancing camouflaged object detection for defense and surveillance using advanced computer vision techniques and real-world datasets.
 
-💻 **Frontend Development Internship** — Working on real-world web projects, building responsive interfaces, and strengthening frontend engineering skills.
+💻 **Frontend Development Internship** — Developing production-ready frontend modules for a School ERP system using React.js, including Student Dashboard, Attendance, and Profile modules. Building responsive, reusable, and user-friendly interfaces while collaborating in a team using Git/GitHub and following real-world software development workflows.
 
 💻 **Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered personal finance platform with expense tracking, budget management, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
 
