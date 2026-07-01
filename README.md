@@ -15,9 +15,9 @@
 
 ## 🚀 What I'm Working On
 
-🔬 **YOLOv11 Research Internship** — Researching Camouflaged Object Detection (COD) for military surveillance and defense applications. Benchmarked 5+ object detection architectures and identified a ~23% mAP performance gap in low-contrast, camouflage-heavy environments. Currently developing CAM-YOLO11 — a proposed framework built on YOLOv11 integrating a Deformable Attention Backbone, Frequency-Spatial Feature Fusion Neck, Multi-Spectral Input Fusion, Camouflage-Adaptive Focal Loss, and Grad-CAM Explainability — aimed at significantly reducing miss-detection rates for concealed military targets. Authoring a research paper on this work for academic submission.
-
 💻 **Frontend Development Internship** — Developing production-ready frontend modules for a School ERP system using React.js, including Student Dashboard, Attendance, and Profile modules. Building responsive, reusable, and user-friendly interfaces while collaborating in a team using Git/GitHub and following real-world software development workflows.
+
+🔬 **YOLOv11 Research Internship** — Researching Camouflaged Object Detection (COD) for military surveillance and defense applications. Benchmarked 5+ object detection architectures and identified a ~23% mAP performance gap in low-contrast, camouflage-heavy environments. Currently developing CAM-YOLO11 — a proposed framework built on YOLOv11 integrating a Deformable Attention Backbone, Frequency-Spatial Feature Fusion Neck, Multi-Spectral Input Fusion, Camouflage-Adaptive Focal Loss, and Grad-CAM Explainability — aimed at significantly reducing miss-detection rates for concealed military targets. Authoring a research paper on this work for academic submission.
 
 💻 **Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered personal finance platform with expense tracking, budget management, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
 
