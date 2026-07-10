@@ -21,7 +21,7 @@
 
 💻 **Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered personal finance platform with expense tracking, budget management, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
 
-📊 **Data Analytics & AI** — Creating interactive Power BI dashboards while exploring machine learning models and generative AI applications.
+📊 **Data Analytics & AI** — Building interactive Power BI dashboards and performing end-to-end data analysis using SQL, Excel, and Python. Exploring machine learning, deep learning, computer vision, and generative AI to develop intelligent, data-driven solutions while applying analytical techniques to solve real-world business and research problems.
 
 ---
 
