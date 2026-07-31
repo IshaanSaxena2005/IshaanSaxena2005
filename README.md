@@ -87,11 +87,6 @@ Civic-tech platform enabling citizens to report infrastructure issues with map i
 
 **Live Link** - (https://ishaansaxena2005.github.io/CityVoice/)
 
-🛒 **Amazon Clone**  
-Frontend replication of Amazon homepage using modern HTML and CSS layout techniques.
-
-**Live Link** - (https://amazon-clone-tau-murex.vercel.app/)
-
 ---
 
 # 🔥 GitHub Streak
