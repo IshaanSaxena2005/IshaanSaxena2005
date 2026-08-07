@@ -38,29 +38,40 @@
 
 ## ⚡ Tech Stack
 
-### 💻 Languages  
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,mysql" />
 </p>
 
-### 🌐 Web Development  
+---
+
+### 🌐 Web Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,flask,github,vercel" />
 </p>
 
-### 📊 Data & Analytics  
+---
+
+### 📊 Data & Analytics
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
   <img src="https://img.icons8.com/color/48/power-bi.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 </p>
 
-### 🛠 Tools & Platforms  
+---
+
+### 🛠️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
-  <img src="https://img.icons8.com/color/48/notepad-plus-plus.png"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,vercel" />
   <img src="https://img.icons8.com/color/48/google-colab.png"/>
 </p>
 
