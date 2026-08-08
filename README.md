@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs" /><br><br>
-  <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,flask,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=express,tailwind,bootstrap,ts,flask,github" />
 </p>
 
 ---
