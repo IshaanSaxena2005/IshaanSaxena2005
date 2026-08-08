@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="355"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=ishaansaxena2005&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=ishaansaxena2005&theme=github-dark" alt="Ishaan Saxena profile hero" /></picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ishaan Saxena</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=FullStack+Developer;Data+Analyst" />
 </p>
 
 🎓 B.Tech CSE (Big Data Analytics) student at **SRM Institute of Science and Technology KTR**  
@@ -105,6 +103,14 @@ Civic-tech platform enabling citizens to report infrastructure issues with map i
 # 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=IshaanSaxena2005&theme=tokyonight&hide_border=true" width="60%" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ishaansaxena2005&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=ishaansaxena2005&theme=github-dark" alt="ishaansaxena2005 featured projects" /></picture>
+</p>
 
 ---
 
