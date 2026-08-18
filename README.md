@@ -13,15 +13,15 @@
 
 ## 🚀 What I'm Working On
 
-💻 **Frontend Development Internship** — Developing production-ready frontend modules for a School ERP system using React.js, including Student Dashboard, Attendance, and Profile modules. Building responsive, reusable, and user-friendly interfaces while collaborating in a team using Git/GitHub and following real-world software development workflows.
+**💻 Frontend Development Internship** — Developing production-ready React.js modules for a School ERP system, including Student Dashboard, Attendance, and Profile modules. Building responsive, reusable interfaces while collaborating in a team using Git/GitHub.
 
-🔬 **YOLOv11 Research Internship** — Researching Camouflaged Object Detection (COD) for military surveillance and defense applications. Benchmarked 5+ object detection architectures and identified a ~23% mAP performance gap in low-contrast, camouflage-heavy environments. Currently developing CAM-YOLO11 — a proposed framework built on YOLOv11 integrating a Deformable Attention Backbone, Frequency-Spatial Feature Fusion Neck, Multi-Spectral Input Fusion, Camouflage-Adaptive Focal Loss, and Grad-CAM Explainability — aimed at significantly reducing miss-detection rates for concealed military targets. Authoring a research paper on this work for academic submission.
+**🔬 YOLOv11 Research Internship** — Researching Camouflaged Object Detection (COD) for military surveillance. Benchmarked 5+ detection architectures and identified a ~23% mAP performance gap in low-contrast environments. Currently developing CAM-YOLO11, integrating Deformable Attention, Frequency-Spatial Feature Fusion, Multi-Spectral Input Fusion, Camouflage-Adaptive Focal Loss, and Grad-CAM Explainability.
 
-💻 **Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered personal finance platform with expense tracking, budget management, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
+**💻 Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered finance platform with expense tracking, budgeting, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
 
-**💼 AI-Powered Developer Intelligence Platform (DevProof)** — AI-Powered Developer Intelligence & Career Analytics Platform (Final Year Project) — Developing an end-to-end developer intelligence platform that analyzes GitHub repositories, engineering practices, coding activity, credentials, and learning history to build evidence-backed developer profiles. The platform combines repository intelligence, static code analysis, developer analytics, skill verification, problem-solving insights, career readiness evaluation, machine learning predictions, and AI-assisted engineering recommendations to provide explainable developer assessments. Built using React, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Python, Pandas, NumPy, Scikit-learn, Ollama, Docker, and GitHub Actions, following production-grade software architecture and modern full-stack development practices.
+**💼 AI-Powered Developer Intelligence Platform (DevProof)** — Developing a final-year project that analyzes GitHub repositories, coding activity, engineering practices, credentials, and learning history to build evidence-backed developer profiles. Built with React, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Python, Scikit-learn, Ollama, Docker, and GitHub Actions.
 
-📊 **Data Analytics & AI** — Building interactive Power BI dashboards and performing end-to-end data analysis using SQL, Excel, and Python. Exploring machine learning, deep learning, computer vision, and generative AI to develop intelligent, data-driven solutions while applying analytical techniques to solve real-world business and research problems.
+**📊 Data Analytics & AI** — Building Power BI dashboards and performing end-to-end analysis using SQL, Excel, and Python. Exploring ML, deep learning, computer vision, and generative AI for real-world business and research problems.
 
 ---
 
