@@ -102,7 +102,9 @@ Civic-tech platform enabling citizens to report infrastructure issues with map i
 
 # 🔥 GitHub Streak
 
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=IshaanSaxena2005&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
