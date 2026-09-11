@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=FullStack+Developer;Data+Analyst;AI+%26+ML+Enthusiast;" />
