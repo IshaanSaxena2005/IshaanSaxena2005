@@ -1,6 +1,3 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=ishaansaxena2005&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=ishaansaxena2005&theme=github-dark" alt="Ishaan Saxena profile hero" /></picture>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=FullStack+Developer;Data+Analyst;AI+%26+ML+Enthusiast;" />
