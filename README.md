@@ -85,16 +85,19 @@ AI-powered personal finance management platform featuring expense tracking, budg
 **Live Link** - (https://spendwise-pro-nu.vercel.app)
 
 🛡 **GigShield AI**
+
 Achieved **Top 1% rank (34th out of 4600+ teams)** in the Guidewire Hackathon. Built a full-stack AI-powered parametric insurance platform for gig workers that automates income-loss payouts using real-time weather and AQI data. Features include ML-based fraud detection, risk scoring with Random Forest, automated claim triggers, JWT authentication, role-based access control, and Stripe payment integration.
 
 **Live Link:** https://gig-shield.onrender.com/
 
-🌌 **Echoes of the Cosmos**  
+🌌 **Echoes of the Cosmos** 
+
 Interactive space exploration platform with 3D solar system visualization, APIs, and AI chatbot.
 
 **Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
 
 🏙 **CityVoice**  
+
 Civic-tech platform enabling citizens to report infrastructure issues with map integration and community reporting.
 
 **Live Link** - (https://ishaansaxena2005.github.io/CityVoice/)
