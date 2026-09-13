@@ -120,12 +120,6 @@ Civic-tech platform enabling citizens to report infrastructure issues with map i
 
 ---
 
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaanSaxena2005&theme=tokyo-night)
-
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/IshaanSaxena2005/IshaanSaxena2005/blob/output/github-contribution-grid-snake.svg)
