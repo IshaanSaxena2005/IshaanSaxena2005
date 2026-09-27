@@ -90,12 +90,6 @@ Achieved **Top 1% rank (34th out of 4600+ teams)** in the Guidewire Hackathon. B
 
 **Live Link:** https://gig-shield.onrender.com/
 
-🌌 **Echoes of the Cosmos** 
-
-Interactive space exploration platform with 3D solar system visualization, APIs, and AI chatbot.
-
-**Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
-
 ---
 
 # 🔥 GitHub Streak
