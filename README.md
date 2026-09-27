@@ -76,7 +76,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🔬 Projects & Innovations
 
 💰 **SpendWise Pro**
 
