@@ -96,12 +96,6 @@ Interactive space exploration platform with 3D solar system visualization, APIs,
 
 **Live Link** - (https://echoes-of-the-cosmos-1.onrender.com/)
 
-🏙 **CityVoice**  
-
-Civic-tech platform enabling citizens to report infrastructure issues with map integration and community reporting.
-
-**Live Link** - (https://ishaansaxena2005.github.io/CityVoice/)
-
 ---
 
 # 🔥 GitHub Streak
