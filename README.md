@@ -18,8 +18,6 @@
 
 **🔬 YOLOv11 Research Internship** — Researching Camouflaged Object Detection (COD) for military surveillance. Benchmarked 5+ detection architectures and identified a ~23% mAP performance gap in low-contrast environments. Currently developing CAM-YOLO11, integrating Deformable Attention, Frequency-Spatial Feature Fusion, Multi-Spectral Input Fusion, Camouflage-Adaptive Focal Loss, and Grad-CAM Explainability.
 
-**💻 Full-Stack Financial Intelligence System (SpendWise Pro)** — Built and deployed an AI-powered finance platform with expense tracking, budgeting, analytics, forecasting, anomaly detection, and intelligent financial insights using React, Node.js, MySQL, and Flask.
-
 **💼 AI-Powered Developer Intelligence Platform (DevProof)** — Developing a final-year project that analyzes GitHub repositories, coding activity, engineering practices, credentials, and learning history to build evidence-backed developer profiles. Built with React, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Python, Scikit-learn, Ollama, Docker, and GitHub Actions.
 
 **📊 Data Analytics & AI** — Building Power BI dashboards and performing end-to-end analysis using SQL, Excel, and Python. Exploring ML, deep learning, computer vision, and generative AI for real-world business and research problems.
@@ -82,7 +80,7 @@
 
 AI-powered personal finance management platform featuring expense tracking, budget management, analytics dashboards, machine-learning forecasting, anomaly detection, intelligent financial insights, JWT authentication, and cloud deployment.
 
-**Live Link** - (https://spendwise-pro-nu.vercel.app)
+**Live Link** - https://spendwise-pro-nu.vercel.app
 
 🛡 **GigShield AI**
 
