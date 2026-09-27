@@ -87,6 +87,7 @@ AI-powered personal finance management platform featuring expense tracking, budg
 🛡 **GigShield AI**
 
 AI-powered parametric insurance platform for gig workers that automates income-loss payouts using real-time weather and AQI data. Features include ML-based fraud detection, Random Forest risk scoring, automated claim triggers, JWT authentication, role-based access control, and Stripe integration.
+**Achievement:** Top 1% — 34th out of 4600+ teams in the Guidewire Hackathon.
 
 **Live Link:** https://gig-shield.onrender.com/
 
