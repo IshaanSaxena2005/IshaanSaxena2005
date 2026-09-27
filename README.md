@@ -96,6 +96,9 @@ AI-powered parametric insurance platform for gig workers that automates income-l
 
 AI-powered developer intelligence and career analytics platform that analyzes GitHub repositories, engineering practices, coding activity, credentials, and learning history to build evidence-backed developer profiles. Includes repository intelligence, static code analysis, skill verification, career readiness evaluation, ML predictions, and AI-assisted engineering recommendations.
 
+🛰 **CAM-YOLO11**
+
+Research project focused on Camouflaged Object Detection (COD) for challenging low-contrast environments. Developing a YOLOv11-based framework integrating deformable attention, frequency-spatial feature fusion, multi-spectral input fusion, camouflage-adaptive focal loss, and Grad-CAM explainability.
 
 ---
 
