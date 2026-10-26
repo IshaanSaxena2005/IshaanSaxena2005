@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="./feature-panels.png" width="100%" alt="Featured Projects and Personal Profile" />
+  <img src="./featured-builds.gif" width="100%" alt="SpendWise Pro, DevProof and GigShield AI — Featured Builds" />
 </div>
 
 <br/>
