@@ -1,3 +1,11 @@
+<div align="center">
+
+<img
+ src="./dp2.png"
+ alt="Ishaan Saxena — Cinematic Developer Banner"
+ width="100%"
+/>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
