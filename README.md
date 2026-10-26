@@ -1,10 +1,15 @@
 <div align="center">
+ <img src="./dp2.png" alt="Ishaan Saxena — Cinematic Developer Banner" width="100%"/>
+</div>
+<br/>
 
-<img
- src="./dp2.png"
- alt="Ishaan Saxena — Cinematic Developer Banner"
- width="100%"
-/>
+<div align="center">
+  <img src="./feature-panels.png" width="100%" alt="Featured Projects, Development Skills and Personal Profile"/>
+</div>
+
+<br/>
+
+---
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
