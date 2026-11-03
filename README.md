@@ -85,6 +85,12 @@ AI-powered personal finance management platform featuring expense tracking, budg
 
 **Live Link** - https://spendwise-pro-nu.vercel.app
 
+🧠 **DevProof**
+
+AI-powered developer intelligence and career analytics platform that analyzes GitHub repositories, engineering practices, coding activity, credentials, and learning history to build evidence-backed developer profiles. Includes repository intelligence, static code analysis, skill verification, career readiness evaluation, ML predictions, and AI-assisted engineering recommendations.
+
+**Live Link:** https://devproof-project.vercel.app/
+
 🛡 **GigShield AI**
 
 AI-powered parametric insurance platform for gig workers that automates income-loss payouts using real-time weather and AQI data. Features include ML-based fraud detection, Random Forest risk scoring, automated claim triggers, JWT authentication, role-based access control, and Stripe integration.
@@ -92,12 +98,6 @@ AI-powered parametric insurance platform for gig workers that automates income-l
 **Achievement:** Top 1% — 34th out of 4600+ teams in the Guidewire Hackathon.
 
 **Live Link:** https://gig-shield.onrender.com/
-
-🧠 **DevProof**
-
-AI-powered developer intelligence and career analytics platform that analyzes GitHub repositories, engineering practices, coding activity, credentials, and learning history to build evidence-backed developer profiles. Includes repository intelligence, static code analysis, skill verification, career readiness evaluation, ML predictions, and AI-assisted engineering recommendations.
-
-**Live Link:** https://devproof-project.vercel.app/
 
 🛰 **CAM-YOLO11**
 
